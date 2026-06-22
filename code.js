@@ -4,7 +4,7 @@ for(let i = 1; i < 21; i++){
         console.log(`${i} is FizzBuzz i.e no is divisible by 3 and 5`);
     }
     else if (i % 3 == 0){
-        console.log(`${i} is Fizz`);
+        console.log(`${i} is Fizz i.e its divisible by 3`);
     }
     else if(i % 5 == 0){
         console.log(`${i} is Buzz`);
